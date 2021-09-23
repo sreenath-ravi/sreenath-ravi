@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sreenath-ravi
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development
+- 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 You can reach me on my email (sreenathr1998@gmail.com)
 
